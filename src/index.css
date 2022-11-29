@@ -1,0 +1,18 @@
+div{
+  background-color: black;
+  text-align: center;
+}
+
+table{
+  border:2px dotted rgb(58, 19, 250);
+}
+
+td{
+  color: beige;
+}
+
+th{
+  color: rgb(0, 0, 0);
+  background-color: antiquewhite;
+  padding: 20px;
+}
